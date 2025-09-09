@@ -2,7 +2,8 @@
   <h1>Hi, I'm <strong>Iker</strong> 👋</h1>
   <p>
     Full Stack & Embedded Systems Developer<br>
-    Passionate about modern web technologies: <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>React</strong>
+    Passionate about modern web technologies — <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>React</strong> —  
+    and skilled in low-level <strong>C/C++</strong> and <strong>Python</strong> for embedded systems and firmware development.
   </p>
   <p>
     <img src="https://img.shields.io/badge/C++/C-Solid-green?logo=c%2B%2B" alt="C++/C" />&nbsp;
