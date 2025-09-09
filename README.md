@@ -37,7 +37,6 @@ I enjoy building solutions that combine performance, scalability, and clean desi
 - Robust backend development with efficient, secure APIs  
 - Integration of embedded systems  
 - DevOps mindset: automated testing, CI/CD pipelines, and deployment workflows  
-- Quick learner, adaptable, and continuously improving my skills  
 - Building efficient and reliable low-level embedded systems firmware
 - Quick learner, adaptable, and continuously improving my skills  
 
