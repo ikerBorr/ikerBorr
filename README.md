@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a passionate developer with experience in **full stack development** and **embedded systems**.  
 I enjoy building solutions that combine performance, scalability, and clean design — whether that’s in the web or low-level systems.
@@ -31,7 +31,7 @@ I enjoy building solutions that combine performance, scalability, and clean desi
 ---
 
 
-## 🛠️ What I Bring to the Table
+## What I Bring to the Table
 
 - Building responsive and modern apps  
 - Robust backend development with efficient, secure APIs  
@@ -42,7 +42,7 @@ I enjoy building solutions that combine performance, scalability, and clean desi
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 Interested in discussing technology or collaborating on a project?  
 Feel free to reach out!
